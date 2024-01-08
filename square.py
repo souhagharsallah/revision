@@ -10,4 +10,6 @@ for i in range(t):
     if int (m) * int (m)==s:
         print("YES")
     else:
-        print("NO")    
+        print("NO") 
+a=0
+   
